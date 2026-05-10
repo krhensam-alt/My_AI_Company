@@ -1,3 +1,15 @@
 {
-  "_migrated": true
+  "_migrated": true,
+  "business": {
+    "activatedAt": "2026-05-09T23:45:20.099Z"
+  },
+  "developer": {
+    "activatedAt": "2026-05-09T23:45:24.693Z"
+  },
+  "instagram": {
+    "activatedAt": "2026-05-09T23:45:30.339Z"
+  },
+  "researcher": {
+    "activatedAt": "2026-05-09T23:46:03.553Z"
+  }
 }
