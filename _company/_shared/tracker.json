@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "20260511032608-2jhy",
+      "title": "수익성 높은 웹사이트 모델 연구",
+      "description": "돈벌수있는 웹 서이트를 연구해보ㅓ",
+      "owner": "agent",
+      "createdAt": "2026-05-11T03:26:08.114Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-11T03-45",
+      "evidence": "완료: sessions/2026-05-11T03-45/_report.md\n- Business: 최근 개발된 'Z Risk Audit Dashboard V3'의 강화된 시나리오 스크립트 가이드라인을 활용하여, 잠재 고객 미팅 전 배포할 수 \n- Writer: Business팀이 확정한 '프리미엄 리스크 진단 워크북'의 목차와 핵심 근거 5가지에 맞는 카피라이팅을 전개해 주세요. 각 섹션별로 권위적인 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: 최근 개발된 'Z Risk Audit Dashboard V3'의 강화된 시나리오 스크립트 가이드라인을 활용하여, 잠재 고객 미팅 전 배포할 수 있는 '프리미엄 리스크 진단 워크북(Pre-Diagnosis Workbook)'의 ",
+      "completedAt": "2026-05-11T03:54:24.833Z"
+    }
+  ]
+}
