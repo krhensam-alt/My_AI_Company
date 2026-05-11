@@ -1,0 +1,4 @@
+// Figma 파일에 다음과 같은 템플릿을 포함합니다:
+[1] Z-Risk Gauge (원형 게이지): 초기값(Red)과 최종값(Green)이 수치적으로 변하는 애니메이션 트랙을 정의.
+[2] Flow Diagram Module: 입력(Input Node) $\rightarrow$ 프로세스(OPRF Box) $\rightarrow$ 출력(Output $Z'$). 화살표와 연결 선의 투명도/색상 변화를 정의.
+[3] Before/After Comparison Card: 두 개의 큰 수치($Z_{Initial}$ vs $Z_{Final}$)를 좌우로 배치하고, 그 차이점($\Delta Z$)을 강조하는 구조물. (가장 중요한 컴포넌트)
