@@ -1,0 +1,12 @@
+# File Name: Z-Risk Audit Narrative Exhibit (v2)
+## Page 1: Master Overview (The Full Story)
+*   **Goal:** One continuous view that tells the story of danger $\rightarrow$ relief.
+*   **Elements:** Header Block, Danger KPI (Top Left), Flow Diagram (Top Right), Comparison Chart (Bottom Wide).
+
+## Page 2: Detail View - The Red Alert Moment (Zoom-in)
+*   **Goal:** 발표자가 이 부분에 포커싱할 때의 디테일. 가장 충격적인 데이터만 확대.
+*   **Elements:** 대형 $Z_{initial}$ 수치, '🚨 IMMEDIATE ACTION REQUIRED' 뱃지, 핵심 지표 그래프(꺾은선형)를 빨간색 오버레이로 강조한 차트 모형.
+
+## Page 3: Detail View - The Relief Calculation (Zoom-out)
+*   **Goal:** 해결책을 통해 수치가 어떻게 안전 범위로 돌아오는가? 그 과정을 보여줌.
+*   **Elements:** 계산 공식($Z_{final} = Z_{initial} \times (1 - E)$), 개선 전/후를 비교하는 3D 막대 그래프 모형, 최종 보고서의 서명 및 날짜 배치 (권위성 추가).
