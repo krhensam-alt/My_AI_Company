@@ -1,0 +1,6 @@
+{
+    "industry": "Global Financial Services",
+    "base_risk_factor": 100,
+    "regulation_intensity": 0.8,
+    "market_dependency": 1.5
+}
