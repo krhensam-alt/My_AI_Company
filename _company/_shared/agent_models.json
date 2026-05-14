@@ -2,10 +2,10 @@
   "ceo": "google/gemma-4-e2b",
   "youtube": "qwen3.5-9b-deepseek-v4-flash",
   "instagram": "qwen3.5-9b-deepseek-v4-flash",
-  "designer": "google/gemma-4-e4b-clmax",
+  "designer": "google/gemma-4-e2b",
   "developer": "qwen3.5-9b-deepseek-v4-flash",
   "business": "qwen3.5-9b-deepseek-v4-flash",
-  "secretary": "google/gemma-4-e4b-clmax",
+  "secretary": "google/gemma-4-e4b",
   "editor": "qwen3.5-9b-deepseek-v4-flash",
   "writer": "qwen3.5-9b-deepseek-v4-flash",
   "researcher": "qwen3.5-9b-deepseek-v4-flash"
